@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
