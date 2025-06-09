@@ -1,5 +1,3 @@
-
-
 import math
 class Solution:
     def perfect(self,arr,noboq,noflower,day):
