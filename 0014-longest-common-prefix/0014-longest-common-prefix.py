@@ -14,13 +14,9 @@ class Solution:
         for j in range(len(minword)):
             for k in range(n-1):
                 if strs[k][j]!=strs[k+1][j]:
-                    flag=1
-                    break
-            if flag==0:
-                ans+=strs[0][j]
-            else:
-                return ans
-            flag=0
+                    return ans
+            ans+=strs[0][j]
+           
         return ans
 
 
