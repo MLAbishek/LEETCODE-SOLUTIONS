@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
