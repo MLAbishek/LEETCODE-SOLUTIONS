@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
