@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
