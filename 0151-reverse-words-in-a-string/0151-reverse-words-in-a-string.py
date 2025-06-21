@@ -9,6 +9,3 @@ class Solution:
             l+=1
             r-=1
         return " ".join(arr)
-
-
-        
