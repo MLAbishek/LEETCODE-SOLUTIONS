@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
