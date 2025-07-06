@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
@@ -186,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
