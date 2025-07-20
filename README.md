@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
