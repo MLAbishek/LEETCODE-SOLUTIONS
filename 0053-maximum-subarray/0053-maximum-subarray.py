@@ -3,9 +3,7 @@ class Solution:
         totsum=float("-inf")
         cursum=0
         for i in range(len(nums)):
-            cursum+=nums[i]
+            cursum=max(nums[i],cursum+nums[i])
             totsum=max(totsum,cursum)
-            if(cursum<0):
-                cursum=0
         return totsum
         
