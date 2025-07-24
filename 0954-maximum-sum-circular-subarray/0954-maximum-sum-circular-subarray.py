@@ -12,4 +12,4 @@ class Solution:
         if totmax<0:
             return totmax
         else:
-            return max(total-totmin,totmax)        
+            return max(total-totmin,totmax)   
