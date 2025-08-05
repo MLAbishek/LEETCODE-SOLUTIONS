@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
