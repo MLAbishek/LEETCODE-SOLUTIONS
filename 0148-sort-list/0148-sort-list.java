@@ -53,9 +53,10 @@ class Solution {
             return head;
         }
         ListNode mid=middle(head);
-        ListNode right=Divide(mid.next);
+        ListNode righthead=mid.next;
         mid.next=null;
         ListNode left=Divide(head);
+        ListNode right=Divide(righthead);
         return merge(left,right);
 
     }
