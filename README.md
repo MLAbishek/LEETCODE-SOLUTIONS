@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
