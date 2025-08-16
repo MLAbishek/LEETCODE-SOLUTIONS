@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
