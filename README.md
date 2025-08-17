@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3396-valid-word](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
