@@ -19,21 +19,21 @@ class Solution {
         if(index==word.length()-1 && word.charAt(index)==board[r][c]){
             return true;
         }
-        if(board[r][c]==word.charAt(index)){
-            int[][] diff={{1,0},{0,-1},{-1,0},{0,1}};
-            visit[r][c]=true;
-            for(int i=0;i<4;i++){
-                int adjr=r+diff[i][0];
-                int adjc=c+diff[i][1];
-                if(adjr>=0 && adjc>=0 && adjr<R && adjc<C && !visit[adjr][adjc]){
-                    boolean flag=isValid(adjr,adjc,R,C,board,word,index+1,visit);
-                    if(flag)
-                        return true;
-                }
+        
+        int[][] diff={{1,0},{0,-1},{-1,0},{0,1}};
+        visit[r][c]=true;
+        for(int i=0;i<4;i++){
+            int adjr=r+diff[i][0];
+            int adjc=c+diff[i][1];
+            if(adjr>=0 && adjc>=0 && adjr<R && adjc<C && !visit[adjr][adjc] && board[r][c]==word.charAt(index)){
+                boolean flag=isValid(adjr,adjc,R,C,board,word,index+1,visit);
+                if(flag)
+                    return true;
             }
-            visit[r][c]=false;
-            return false;
         }
+        visit[r][c]=false;
         return false;
-    }
+        }
+        
+    
 }
