@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Linked List
 |  |
 | ------- |
@@ -317,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
+## Tree
+|  |
+| ------- |
+| [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
