@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -324,9 +326,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
