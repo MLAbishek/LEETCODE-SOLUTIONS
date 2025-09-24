@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3396-valid-word) |
