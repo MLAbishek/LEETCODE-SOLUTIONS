@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
+| [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
