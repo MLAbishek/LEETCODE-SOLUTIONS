@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
