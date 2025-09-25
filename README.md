@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
@@ -368,5 +369,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
