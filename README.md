@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3312-number-of-changing-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
