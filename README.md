@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+| [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
