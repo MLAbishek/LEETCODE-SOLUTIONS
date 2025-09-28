@@ -1,23 +1,48 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        int[] rowf = new int[9];
-        int[] colf = new int[9];
-        int[] subf = new int[9];
-        for(int row=0;row<9;row++){
-            for(int col=0;col<9;col++){
-                if(board[row][col]!='.'){
-                    int subind=3*(row/3)+(col/3);
-                    int dig= board[row][col]-'0';
-                    if((rowf[row] & 1<<dig)!=0 || (colf[col] & 1<<dig)!=0 || (subf[subind] & 1<<dig)!=0){
+        // now for rows
+        for(int i=0;i<9;i++){
+            HashSet<Character> rows=new HashSet<>();
+            for(int r=0;r<9;r++){
+                if(board[i][r]!='.'){
+                    if(rows.contains(board[i][r])){
                         return false;
                     }
-                    else{
-                        rowf[row]|=(1<<dig);
-                        colf[col]|=(1<<dig);
-                        subf[subind]|=(1<<dig);
+                    rows.add(board[i][r]);
+                }
+
+            }
+
+        }
+
+        // check col
+        for(int j=0;j<9;j++){
+            HashSet<Character> cols=new HashSet<>();
+            for(int c=0;c<9;c++){
+                if(board[c][j]!='.'){
+                    if(cols.contains(board[c][j])){
+                        return false;
+                    }
+                    cols.add(board[c][j]);
+                }
+            }
+        }
+
+        // subindex
+
+        for(int i=0;i<9;i+=3){
+            for(int j=0;j<9;j+=3){
+                HashSet<Character> sub=new HashSet<>();
+                for(int r=i;r<i+3;r++){
+                    for(int c=j;c<j+3;c++){
+                        if(board[r][c]!='.'){
+                            if(sub.contains(board[r][c])){
+                                return false;
+                            }
+                            sub.add(board[r][c]);
+                        }
                     }
                 }
-                
             }
         }
         return true;
