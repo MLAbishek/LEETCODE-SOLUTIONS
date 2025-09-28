@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+| [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+| [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
