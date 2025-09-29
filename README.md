@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 ## Backtracking
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Linked List
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Simulation
 |  |
