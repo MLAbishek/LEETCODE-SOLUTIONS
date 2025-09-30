@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
@@ -402,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
