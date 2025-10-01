@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
+| [1944-truncate-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1944-truncate-sentence) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1944-truncate-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
