@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1137-height-checker) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
+| [1137-height-checker](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
