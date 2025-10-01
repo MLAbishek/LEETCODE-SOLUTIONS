@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## String
