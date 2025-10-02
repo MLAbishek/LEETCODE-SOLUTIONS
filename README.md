@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
+| [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## Design
 |  |
