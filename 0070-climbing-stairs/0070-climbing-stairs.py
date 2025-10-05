@@ -7,5 +7,3 @@ class Solution:
             one=one+two
             two=temp
         return one
-        
-        
