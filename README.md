@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
+| [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 ## Counting Sort
 |  |
 | ------- |
@@ -453,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3221-find-the-peaks) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
