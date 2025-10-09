@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
