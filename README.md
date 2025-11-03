@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0728-self-dividing-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
