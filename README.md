@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
