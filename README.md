@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0978-valid-mountain-array) |
+| [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
