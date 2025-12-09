@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
+| [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
@@ -494,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
