@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2365-percentage-of-letter-in-string) |
+| [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 | [3312-number-of-changing-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3617-find-the-original-typed-string-i) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -501,4 +504,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
