@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
