@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
