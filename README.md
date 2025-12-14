@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2404-most-frequent-even-element](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
+| [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
+| [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
