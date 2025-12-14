@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -508,9 +509,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3221-find-the-peaks) |
 ## Hash Function
 |  |
