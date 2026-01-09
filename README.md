@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3221-find-the-peaks) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2365-percentage-of-letter-in-string) |
+| [2678-number-of-senior-citizens](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
 | [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 | [3312-number-of-changing-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3396-valid-word) |
