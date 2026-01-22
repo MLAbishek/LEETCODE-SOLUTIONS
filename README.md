@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
@@ -564,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
