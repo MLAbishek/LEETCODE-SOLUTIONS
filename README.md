@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 ## Tree
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 ## Interactive
