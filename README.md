@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Database
