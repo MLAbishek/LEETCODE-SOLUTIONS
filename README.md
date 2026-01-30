@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
