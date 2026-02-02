@@ -1,22 +1,31 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int val = -1;
-        int count = 0;
-        int N = nums.length;
-        for (int i = 0; i < N; i++) {
-            if (count == 0) {
-                val = nums[i];
-                count = 1;
-            } else {
-                if (val == nums[i]) {
-                    count++;
-                }
-                if (val != nums[i]) {
-                    count--;
-                }
-            }
-
+        return helper(nums,0,nums.length-1);
+    }
+    private static int helper(int[] arr,int left,int right){
+        if(left==right){
+            return arr[left];
         }
-        return val;
+        int mid=(left+right)/2;
+        int lmaj=helper(arr,left,mid);
+        int rmaj=helper(arr,mid+1,right);
+        if(lmaj==rmaj) return lmaj;
+        int lcount=count(arr,lmaj,left,mid);
+        int rcount=count(arr,rmaj,mid+1,right);
+        if(lcount>rcount){
+            return lmaj;
+        }
+        else{
+            return rmaj;
+        }
+    }
+    private static int count(int arr[],int val,int l,int r){
+        int ans=0;
+        for(int i=l;i<=r;i++){
+            if(arr[i]==val){
+                ans++;
+            }
+        }
+        return ans;
     }
 }
