@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
