@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0978-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1306-minimum-absolute-difference) |
