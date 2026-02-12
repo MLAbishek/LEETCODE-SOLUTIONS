@@ -11,10 +11,10 @@ class Solution {
                 return mid;
             }
             else if(nums[mid]<target){
-                l++;
+                l=mid+1;
             }
             else{
-                r--;
+                r=mid;
             }
         }
 
