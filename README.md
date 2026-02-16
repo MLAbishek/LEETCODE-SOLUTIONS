@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0357-count-numbers-with-unique-digits) |
 ## Depth-First Search
 |  |
 | ------- |
