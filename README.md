@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0693-binary-number-with-alternating-bits) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1610-xor-operation-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
