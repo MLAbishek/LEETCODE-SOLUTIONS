@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
@@ -590,12 +592,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [3221-find-the-peaks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3221-find-the-peaks) |
 ## Hash Function
