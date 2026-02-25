@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [1833-find-the-highest-altitude](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
