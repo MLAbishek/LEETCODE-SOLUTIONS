@@ -25,8 +25,6 @@ class Solution {
         for(int i=1;i<N-1;i++){
             res[i]=prefix[i-1]*postfix[i+1];
         }
-        print(prefix);
-        print(postfix);
         return res;
     }
 }
