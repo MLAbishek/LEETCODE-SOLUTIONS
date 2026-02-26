@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0601-human-traffic-of-stadium](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0601-human-traffic-of-stadium) |
 | [1258-article-views-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1827-invalid-tweets) |
+| [3482-analyze-organization-hierarchy](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3482-analyze-organization-hierarchy) |
 ## Bit Manipulation
 |  |
 | ------- |
