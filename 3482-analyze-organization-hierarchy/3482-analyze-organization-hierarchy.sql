@@ -1,5 +1,4 @@
 WITH RECURSIVE hierarchy AS (
-    -- Step 1: Build tree with level
     SELECT 
         employee_id,
         employee_name,
@@ -23,7 +22,6 @@ WITH RECURSIVE hierarchy AS (
 ),
 
 subtree AS (
-    -- Step 2: Get all descendant relationships
     SELECT 
         e.employee_id AS manager_id,
         e.employee_id AS employee_id
