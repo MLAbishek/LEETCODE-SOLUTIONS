@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0584-find-customer-referee) |
 | [0601-human-traffic-of-stadium](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0601-human-traffic-of-stadium) |
+| [0610-triangle-judgement](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0610-triangle-judgement) |
 | [1193-monthly-transactions-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1193-monthly-transactions-i) |
 | [1258-article-views-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1827-invalid-tweets) |
