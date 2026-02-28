@@ -10,7 +10,8 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         
-        rem=(len(nums)-k)%len(nums)
+        k=k%len(nums)
+        rem=(len(nums)-k)
         
         self.helper(nums,0,rem-1)
         self.helper(nums,rem,len(nums)-1)
