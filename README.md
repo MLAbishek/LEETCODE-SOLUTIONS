@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [0564-find-the-closest-palindrome](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0564-find-the-closest-palindrome) |
 | [0728-self-dividing-numbers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0520-detect-capital) |
+| [0564-find-the-closest-palindrome](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0812-rotate-string) |
