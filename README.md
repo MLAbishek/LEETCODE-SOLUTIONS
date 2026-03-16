@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0079-word-search) |
