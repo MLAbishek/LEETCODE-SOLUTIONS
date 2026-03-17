@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0933-number-of-recent-calls) |
 ## Counting Sort
 |  |
 | ------- |
@@ -649,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
