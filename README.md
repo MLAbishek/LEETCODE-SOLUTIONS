@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1944-truncate-sentence) |
 | [2047-find-a-peak-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
