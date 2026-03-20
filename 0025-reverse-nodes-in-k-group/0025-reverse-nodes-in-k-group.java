@@ -9,45 +9,48 @@
  * }
  */
 class Solution {
-    private static ListNode reversedG(ListNode start,ListNode end){
-        //end.next=null;
-        
+    private static ListNode findk(ListNode temp,int k){
+        while(temp!=null && --k >0){
+            temp=temp.next;
+        }
+        return temp;
+    }
+    private static ListNode reverse(ListNode head){
         ListNode prev=null;
-        ListNode temp=start;
-        ListNode stop=end.next;
-        while(temp!=stop){
-            ListNode nextnode=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=nextnode;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode nextn=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=nextn;
         }
         return prev;
+
     }
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head==null || k<=1) return head;
-        ListNode answer=new ListNode(0);
-        ListNode append=answer;
         ListNode temp=head;
+        ListNode prev=null;
         while(temp!=null){
-            ListNode knode=temp;
-            for(int i=1;i<k && knode!=null ; i++){
-                knode=knode.next;
+            ListNode kthn=findk(temp,k);
+            if(kthn==null){
+                 prev.next=temp;
+                return head;
             }
-            if(knode==null)
-                break;
-            ListNode piv=knode.next;
-            ListNode newend=reversedG(temp,knode);
-            if(newend!=null){
-                append.next=newend;
-                append=temp;
-                temp=piv;
+            ListNode nextn=kthn.next;
+            kthn.next=null;
+            reverse(temp);
+            if(temp==head){
+                head=kthn;
             }
+
+            if(prev!=null){
+                prev.next=kthn;
+            }
+            prev=temp;
+            temp=nextn;
         }
-        append.next = temp;
-
-        return answer.next;
-
+        return head;
         
     }
-
+   
 }
