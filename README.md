@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
