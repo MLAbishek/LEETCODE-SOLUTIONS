@@ -1,17 +1,27 @@
 class Solution {
-    private static void dfs(int R,int C,int r,int c,char[][] grid){
-        grid[r][c]='0';
-        int diff[][]={{-1,0},{0,-1},{1,0},{0,1}};
-        for(int i=0;i<4;i++){
-            int adjr=diff[i][0]+r;
-            int adjc=diff[i][1]+c;
-            if( adjr<R && adjc<C && adjr>=0 && adjc>=0 && grid[adjr][adjc]=='1'){
-                dfs(R,C,adjr,adjc,grid);
+    private static void bfs(int r,int c,int R,int C,char[][] grid){
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[] {r,c});
+        int diff[][]={{0,1},{1,0},{0,-1},{-1,0}};
+        while(!q.isEmpty()){
+            int size=q.size();
+            while(size-- >0){
+                int top[]=q.poll();
+                int row=top[0];
+                int col=top[1];
+                for(int i=0;i<4;i++){
+                    int adjr=row+diff[i][0];
+                    int adjc=col+diff[i][1];
+                    if(adjr>=0 && adjr<R && adjc>=0 && adjc<C && grid[adjr][adjc]=='1'){
+                        q.add(new int[]{adjr,adjc});
+                        grid[adjr][adjc]='0';
+                    }
+                }
             }
         }
-
     }
     public int numIslands(char[][] grid) {
+       
         int count=0;
         int R=grid.length;
         int C=grid[0].length;
@@ -19,7 +29,7 @@ class Solution {
             for(int c=0;c<C;c++){
                 if(grid[r][c]=='1'){
                     count++;
-                    dfs(R,C,r,c,grid);
+                    bfs(r,c,R,C,grid);
                 }
             }
         }
