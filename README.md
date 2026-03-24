@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0978-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1127-last-stone-weight) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
 | [1137-height-checker](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1306-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
