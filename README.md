@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0520-detect-capital) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0693-binary-number-with-alternating-bits) |
