@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
