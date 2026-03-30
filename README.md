@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
+| [2585-number-of-ways-to-earn-points](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2585-number-of-ways-to-earn-points) |
 | [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2678-number-of-senior-citizens) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
+| [2585-number-of-ways-to-earn-points](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2585-number-of-ways-to-earn-points) |
 | [3693-climbing-stairs-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
