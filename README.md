@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0733-flood-fill) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 ## Backtracking
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Simulation
 |  |
