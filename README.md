@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
