@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
