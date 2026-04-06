@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+| [1092-shortest-common-supersequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [2585-number-of-ways-to-earn-points](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2585-number-of-ways-to-earn-points) |
