@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
