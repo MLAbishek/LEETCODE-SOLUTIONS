@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0584-find-customer-referee) |
 | [0601-human-traffic-of-stadium](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0601-human-traffic-of-stadium) |
 | [0610-triangle-judgement](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0610-triangle-judgement) |
