@@ -1,18 +1,10 @@
 class Solution {
     public int maxProfit(int[] arr) {
-        int n=arr.length;
-        int l=0;
-        int r=1;
+        int N=arr.length;
         int ans=0;
-        while(r<n){
-            if(arr[l]>=arr[r]){
-                l=r;
-                r++;
-            }
-            else{
-                ans+=(arr[r]-arr[l]);
-                l++;
-                r++;
+        for(int i=0;i<N-1;i++){
+            if(arr[i]<arr[i+1]){
+                ans+=(arr[i+1]-arr[i]);
             }
         }
         return ans;
