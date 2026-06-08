@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0520-detect-capital) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
