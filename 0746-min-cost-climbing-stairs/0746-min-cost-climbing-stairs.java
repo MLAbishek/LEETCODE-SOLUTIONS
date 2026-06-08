@@ -1,24 +1,24 @@
 class Solution {
-    private static int help(int n,int[] dp,int[] cost){
-        if(dp[n]!=-1){
-            return dp[n];
+    private static int helper(int[] arr,int[] dp,int ind){
+        if(ind==0 || ind==1){
+            return arr[ind];
         }
-        if(n==cost.length){
-            dp[n]=Math.min(help(n-1,dp,cost),help(n-2,dp,cost));
-            return dp[n];
+        if(dp[ind]!=-1){
+            return dp[ind];
         }
-        dp[n]=cost[n]+Math.min(help(n-1,dp,cost),help(n-2,dp,cost));
-        return dp[n];
+        int left=helper(arr,dp,ind-1);
+        int right=helper(arr,dp,ind-2);
+        dp[ind] = arr[ind]+Math.min(left,right);
+        return dp[ind];
     }
     public int minCostClimbingStairs(int[] cost) {
         int n=cost.length;
-        int dp[]=new int[n+1];
-        
+        int dp[] = new int[n];
         Arrays.fill(dp,-1);
         dp[0]=cost[0];
         dp[1]=cost[1];
-        return help(n,dp,cost);
-        
+        helper(cost,dp,n-1);
+        return Math.min(dp[n-1],dp[n-2]);
         
     }
 }
