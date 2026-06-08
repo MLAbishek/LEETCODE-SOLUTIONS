@@ -13,7 +13,7 @@ class Solution {
     // }
     public int rob(int[] nums) {
         int n=nums.length;
-        int dp[] = new int[n];
+        // int dp[] = new int[n];
         // Arrays.fill(dp,-1);
         if(n==1 ){
             return nums[0];
@@ -21,12 +21,15 @@ class Solution {
         if(n==2){
             return Math.max(nums[0],nums[1]);
         }
-        dp[0]=nums[0];
-        dp[1]=Math.max(nums[0],nums[1]);
+        int prev1=nums[0];
+        int prev2=Math.max(nums[0],nums[1]);
+        int curr=0;
         for(int i=2;i<n;i++){
-            dp[i]=Math.max(dp[i-2]+nums[i],dp[i-1]);
+            curr=Math.max(prev1+nums[i],prev2);
+            prev1=prev2;
+            prev2=curr;
         }
-        return dp[n-1];
+        return curr;
         
     }
 }
