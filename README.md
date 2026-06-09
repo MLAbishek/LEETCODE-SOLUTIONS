@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1306-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## String
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1844-replace-all-digits-with-characters](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1844-replace-all-digits-with-characters) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
