@@ -1,28 +1,29 @@
 class Solution {
-    private static int check(int val,int ind,int[] coins,int[][] dp){
-        if(ind==coins.length){
-            if(val==0)
-                return 1;
+    private static int req(int[] arr,int ind,int total,int[][] dp){
+        if(ind<0){
             return 0;
         }
-        if(dp[ind][val]!=-1){
-            return dp[ind][val];
+        if(total==0){
+            return 1;
         }
-        int take=0;
-        if(coins[ind]<=val){
-            take = check(val-coins[ind],ind,coins,dp);
+        if(dp[ind][total]!=-1){
+            return dp[ind][total];
         }
-        int notake=check(val,ind+1,coins,dp);
-        dp[ind][val] = take+notake;
-        return dp[ind][val];
+        int pick=0;
+        if(arr[ind]<=total){
+            pick=req(arr,ind,total-arr[ind],dp);
+        }
+        int nopick=req(arr,ind-1,total,dp);
+        dp[ind][total] = pick+nopick;
+        return dp[ind][total];
     }
     public int change(int amount, int[] coins) {
-        //UNBOUNDED KNAPSACK
-        int dp[][] = new int[coins.length+1][amount+1];
-        for(int i=0;i<coins.length;i++){
+        int N=coins.length;
+        
+        int dp[][] = new int[N+1][amount+1];
+        for(int i=0;i<=N;i++){
             Arrays.fill(dp[i],-1);
         }
-        return check(amount,0,coins,dp);
-
+        return req(coins,N-1,amount,dp);
     }
 }
