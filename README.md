@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0978-valid-mountain-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+| [0983-minimum-cost-for-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
