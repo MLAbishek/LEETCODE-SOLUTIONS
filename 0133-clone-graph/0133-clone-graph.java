@@ -20,22 +20,27 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
-        if(node==null) return null;
-        Map<Node,Node> map=new HashMap<>();
-        Queue<Node> q=new LinkedList<>();
-        q.offer(node);
-        map.put(node,new Node(node.val));
-        while(!q.isEmpty()){
-            Node curr=q.poll();
-            for(Node n:curr.neighbors){
-                if(!map.containsKey(n)){
-                    map.put(n,new Node(n.val));
-                    q.offer(n);
+        if (node == null) {
+            return node;
+        }
+        HashMap<Node, Node> map = new HashMap<>();
+        Queue<Node> q = new LinkedList<>();
+
+        q.add(node);
+        map.put(node, new Node(node.val));
+        while (!q.isEmpty()) {
+            Node curr = q.poll();
+            
+            for (Node neigh : curr.neighbors) {
+                if (!map.containsKey(neigh)) {
+                    map.put(neigh, new Node(neigh.val));
+                    q.add(neigh);
+
                 }
-                map.get(curr).neighbors.add(map.get(n));
+                map.get(curr).neighbors.add(map.get(neigh));
             }
+
         }
         return map.get(node);
-        
     }
 }
