@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0978-valid-mountain-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0997-find-the-town-judge) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
+| [0997-find-the-town-judge](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
