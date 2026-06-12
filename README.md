@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2404-most-frequent-even-element](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2585-number-of-ways-to-earn-points) |
 | [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2481-strictly-palindromic-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2481-strictly-palindromic-number) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2551-apply-operations-to-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3226-minimum-number-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
