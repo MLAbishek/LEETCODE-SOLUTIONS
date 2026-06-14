@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0817-design-hashmap) |
 | [0860-lemonade-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1029-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1448-maximum-69-number) |
