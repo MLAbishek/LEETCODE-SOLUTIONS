@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2585-number-of-ways-to-earn-points](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2585-number-of-ways-to-earn-points) |
 | [3693-climbing-stairs-ii](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0841-keys-and-rooms) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Simulation
 |  |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
