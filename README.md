@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1193-monthly-transactions-i) |
 | [1258-article-views-i](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1258-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/1667-fix-names-in-a-table) |
