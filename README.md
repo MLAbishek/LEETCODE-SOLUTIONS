@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MLAbishek/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
