@@ -5,18 +5,31 @@ with tot as (
         accepter_id
     from RequestAccepted
 
-    union
+    union all
 
     Select 
         accepter_id,
         requester_id
     from RequestAccepted
 
-)
-select
-    requester_id as id,
-    count(*) as num
+),
+friend as (
+    select
+        requester_id as id,
+        count(*) as num
     from tot
     group by requester_id
     order by num desc
-    limit 1;
+)
+
+select 
+    id,
+    num
+from(
+    select 
+        id,
+        num,
+        rank() over(order by num desc) as rnk
+    from friend
+)t
+where rnk = 1;
